@@ -1,1 +1,1 @@
-# Data-driven control (DDC) repository
+# Data-driven control repository
