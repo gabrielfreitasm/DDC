@@ -2,6 +2,9 @@
 
 > Codes in data-driven control analysis and design.
 
+## 🔍 References
+- Formulas for Data-Driven Control: Stabilization, Optimality, and Robustness (https://doi.org/10.1109/TAC.2019.2959924)
+
 ## 📝 License
 
 This project is under license. See the [LICENSE](LICENSE) file for more details.
