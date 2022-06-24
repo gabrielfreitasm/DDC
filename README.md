@@ -3,7 +3,7 @@
 > Codes in data-driven control analysis and design.
 
 ## 🔍 References
-# Data-driven theory and mathematical generalizations
+### Data-driven theory and mathematical generalizations
 - Data Informativity: A New Perspective on Data-Driven Analysis and Control (https://doi.org/10.1109/TAC.2020.2966717)
 - A Matrix Finsler's Lemma with Applications to Data-Driven Control (https://doi.org/10.48550/arXiv.2103.13461)
 
